@@ -15,7 +15,7 @@
 ## Структура репозитория
 
 - `docs/requirements.pdf` — итоговый документ с требованиями;
-- `diagrams/notifications_diagram.png` — диаграмма процесса.
+- `diagrams/notifications_diagram.jpg` — диаграмма процесса.
 
 ## Используемые артефакты
 
